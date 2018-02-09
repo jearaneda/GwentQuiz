@@ -4,34 +4,86 @@
   See http://ionicframework.com/docs/components/#navigation for more info on
   Ionic pages and navigation.
 -->
+<ion-header>
+
+  <div text-center>
+
+    <img height="50" align-self: center src="assets/imgs/corona.png">
+  </div>
+</ion-header>
 
 
 
-<ion-content class="background" padding>
-
-  <h4 ion-text color="gwent">How much do you know
-    of the world of Gwent?</h4>
-    <div style="" class="list card" ng-if="question">
-        <div class="item item-body">
-            <p ng-bind-html="question"></p>
-        </div>
-
-         <div class="item item-divider">
-            <label style="">QId: {{id}}</label>
-         </div>
-
-    </div>
-    <ion-list>
-        <div class="list">
-            <a>
-                <p ng-repeat="item in optionList track by $index"
-                ng-class="{'normal': !item.flag, 'correct': item.flag == true, 'wrong': item.flag == false}" ng-click="setClickedRow(item, $index)" ng-bind-html="item.text"
-                ng-value="item.value">
-                </p>
-            </a>
-        </div>
-    </ion-list>
+<ion-content class="background" >
 
 
 
-</ion-content>
+  <ion-slides #slides>
+
+
+
+    <ion-slide class="start-slide">
+      <img src="assets/gaunter.png">
+        <h3 ion-text color="gwent">Are you ready to defy the Master Mirror? If so...</h3>
+        <button ion-button color="gwent" (click) = "letsPlay()" (click)="nextSlide()">Let us play.</button>
+    </ion-slide>
+
+
+         <ion-slide *ngFor="let question of questions | slice:0:20; let i = index">
+
+             <h3 ion-text color="gwent">Question {{i+1}} / 20</h3>
+
+
+
+             <ion-item class ="pregunta"color="gwent" [innerHTML]="question.questionText" >
+             </ion-item>
+
+  <div>
+             <ion-list  radio-group>
+                 <ion-item *ngFor="let answer of question.answers; let i = index;">
+
+                     <ion-label>{{answer.answer}}</ion-label>
+                     <ion-radio color="light"  (click)="selectAnswer(answer, question)" [checked]="answer.selected" [disabled]="hasAnswered" ng-checked="v" ></ion-radio>
+
+                 </ion-item>
+             </ion-list>
+           </div>
+         </ion-slide>
+
+
+
+<div *ngIf= "score == 20" >
+         <ion-slide>
+            <h2 ion-text color = "gwent">Final Score: {{score}}</h2>
+
+            <img src="assets/geralt_thumb.jpg">
+
+
+            <button (click) = "changeTab()" (click)="restartQuiz()"  ion-button full color="primary">Start Again</button>
+        </ion-slide>
+</div>
+
+<div *ngIf= "score < 12" >
+         <ion-slide>
+            <h2 ion-text color = "gwent">Final Score: {{score}}</h2>
+
+            <img src="assets/sad.jpg">
+
+
+            <button (click) = "verysad()" (click)="restartQuiz()" ion-button full color="primary">Start Again</button>
+            </ion-slide>
+</div>
+
+<div *ngIf= "score > 12 && score < 20" >
+         <ion-slide>
+            <h2 ion-text color = "gwent">Final Score: {{score}}</h2>
+
+            <img src="assets/ale.jpg">
+
+
+            <button (click) = "notbad()" (click)="restartQuiz()" ion-button full color="primary">Start Again</button>
+            </ion-slide>
+</div>
+
+         </ion-slides>
+  </ion-content>﻿

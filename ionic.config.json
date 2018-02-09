@@ -1,6 +1,6 @@
 {
   "name": "gwent",
-  "app_id": "",
+  "app_id": "e75df4a7",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}

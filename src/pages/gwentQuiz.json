@@ -1,0 +1,383 @@
+[
+    {
+        "question": "Who's the Leek master?",
+        "c1": "Rethaz",
+        "c2": "Dandelion",
+        "c3": "Vinthir",
+        "c4": "Swim",
+        "answer": "Burza"
+    },
+    {
+        "question": "Which streamer uploads cancer tier decks the second a new patch arrives?",
+        "c1": "Mogwai",
+        "c2": "JJPasak",
+        "c3": "Merchant",
+        "c4": "SirPumpkn",
+        "answer": "Swim"
+    },
+    {
+        "question": "\"A grave error\"",
+        "c1": "Radovid",
+        "c2": "Geralt",
+        "c3": "Eredin",
+        "c4": "Emhyr",
+        "answer": "Ciri"
+    },
+    {
+        "question": "There's been a mistake, he's no mage.",
+        "c1": "Vicovaro Medic",
+        "c2": "Abaya",
+        "c3": "Avallach",
+        "c4": "Dorregaray",
+        "answer": "Alchemist"
+    },
+    {
+        "question": "RADOVID",
+        "c1": "ASIA",
+        "c2": "EUROPA",
+        "c3": "AMERICA",
+        "c4": "ANTARCTICA",
+        "answer": "AFRICA"
+    },
+    {
+        "question": "How many Ciri cards are there?",
+        "c1": 0,
+        "c2": 1,
+        "c3": 2,
+        "c4": 4,
+        "answer": 3
+    },
+    {
+        "question": "Uma is...",
+        "c1": "Just a monster",
+        "c2": "Ciri",
+        "c3": "Geralt",
+        "answer": "Avallach"
+    },
+    {
+        "question": "\"DANCE OF DEATH!\"",
+        "c1": "Wardancer",
+        "c2": "Elven scout",
+        "c3": "Elven swordmaster",
+        "c4": "Elven Bomber",
+        "answer": "Blue Mountain Elite"
+    },
+    {
+        "question": "How many factions are in the game?",
+        "c1": 4,
+        "c2": 2,
+        "c3": 3,
+        "c4": 6,
+        "answer": 5
+    },
+    {
+        "question": "What is the row limit?",
+        "c1": 12,
+        "c2": 9,
+        "c3": 11,
+        "c4": 8,
+        "answer": 10
+    },
+    {
+        "question": "How many Yennefer cards are there?",
+        "c1": 1,
+        "c2": 2,
+        "c3": 4,
+        "c4": 5,
+        "answer": 3
+    },
+    {
+        "question": "How many Triss cards are there in the game?",
+        "c1": 1,
+        "c2": 3,
+        "c3": 5,
+        "c4": 0,
+        "answer": 2
+    },
+    {
+        "question": "One of these isn't in the game",
+        "c1": "G: Igni",
+        "c2": "G: Yrden",
+        "c3": "G: Aard",
+        "c4": "Geralt",
+        "answer": "G: Axii"
+    },
+    {
+        "question": "What does Myrgtabrakke do?",
+        "c1": "Deal 3 damage, then 1.",
+        "c2": "Deal 1 damage 4 times",
+        "c3": "Damage units by 2, 2 and then 1",
+        "c4": "Damage units by 2, 1 and then 1",
+        "answer": "Deal 2 damage 3 times"
+    },
+    {
+        "question": "Slave Hunter",
+        "c1": "Charm a unit with 3 power or less",
+        "c2": "Create a Bronze unit from your opponents starting deck",
+        "c3": "Spawn a base copy of this unit on your other rows",
+        "c4": "Reset a unit",
+        "answer": "Charm a Bronze with 3 power or less"
+    },
+    {
+        "question": "How many Zoltan cards are there?",
+        "c1": 0,
+        "c2": 1,
+        "c3": 3,
+        "c4": 4,
+        "answer": 2
+    },
+    {
+        "question": "How many gold cards does NG have?",
+        "c1": 17,
+        "c2": 15,
+        "c3": 21,
+        "c4": 13,
+        "answer": 14
+    },
+    {
+        "question": "The faction with the least amount of golds is...",
+        "c1": "Nilfgaard",
+        "c2": "Monsters",
+        "c3": "Scoia'tael",
+        "c4": "Northern Realms",
+        "answer": "ST, NR and SK have the same amount"
+    },
+    {
+        "question": "The faction with the most golds is",
+        "c1": "MO",
+        "c2": "NR",
+        "c3": "ST",
+        "c4": "SK",
+        "answer": "NG"
+    },
+    {
+        "question": "Yennefer: Enchantress",
+        "c1": "Spawn Unicorn or Chironex",
+        "c2": "Deal 1 damage to the Highest enemies",
+        "c3": "Deal 5 damage",
+        "c4": "Boost the lowest allies by 1",
+        "answer": "Spawn the last Bronze or silver Spell you played"
+    },
+    {
+        "question": "The faction with the least amount of silvers is",
+        "c1": "Nilfgaard",
+        "c2": "Monsters",
+        "c3": "Scoia'tael",
+        "c4": "Northern Realms",
+        "answer": "Skellige"
+    },
+    {
+        "question": "The faction with the most bronzes is",
+        "c1": "Skellige",
+        "c2": "Scoia'tael",
+        "c3": "Northern Realms",
+        "c4": "Nilfgaard",
+        "answer": "Monsters"
+    },
+    {
+        "question": "The faction with the least amount of bronzes is",
+        "c1": "Skellige",
+        "c2": "Monsters",
+        "c3": "Northern Realms",
+        "c4": "Nilfgaard",
+        "answer": "Scoia'tael"
+    },
+    {
+        "question": "Milva",
+        "c1": "Return each player's Highest unit to their deck and boost yours by 3",
+        "c2": "Truce: return the Highest Ally and Enemy to each players' hand.",
+        "c3": "Reset the Highest units on each side of the board.",
+        "c4": "Swap 2 cards",
+        "answer": "Return each player's Highest Bronze or Silver unit to their deck"
+    },
+    {
+        "question": "A king should be merciless towards his enemies and generous to his friends.",
+        "c1": "Francesca",
+        "c2": "Henselt",
+        "c3": "Bran",
+        "c4": "Foltest",
+        "answer": "Radovid"
+    },
+    {
+        "question": "How many hazards are there in the game?",
+        "c1": 4,
+        "c2": 5,
+        "c3": 6,
+        "c4": 7,
+        "answer": 10
+    },
+    {
+        "question": "How many boons are there in the game?",
+        "c1": 1,
+        "c2": 4,
+        "c3": 5,
+        "c4": 3,
+        "answer": 2
+    },
+    {
+        "question": "Spores",
+        "c1": "Reset a unit and weaken it by 3",
+        "c2": "Reset a unit and strengthen it by 3",
+        "c3": "Deal 13 damage",
+        "c4": "Reset a unit and weaken it by 6",
+        "answer": "Deal 2 damage to all units on a row and clear a boon from it"
+    },
+    {
+        "question": "The summer sun reflected in the quiet waters of the Alba - that´s Nilfgaard to me",
+        "c1": "Tibor",
+        "c2": "Jan Calveit",
+        "c3": "Emhyr",
+        "c4": "Menno",
+        "answer": "GOD EMPEROR MORVRAN KAST"
+    },
+    {
+        "question": "Mogwai is a main ____ player.",
+        "c1": "Monsters",
+        "c2": "Skellige",
+        "c3": "Scoia'tael",
+        "c4": "Northern Realms",
+        "answer": "Nilfgaard"
+    },
+    {
+        "question": "How many Create cards are there?",
+        "c1": 4,
+        "c2": 7,
+        "c3": 12,
+        "c4": 8,
+        "answer": 24
+    },
+    {
+        "question": "Aguara: True form can't pull:",
+        "c1": "Scorch",
+        "c2": "Alzur's Thunder",
+        "c3": "Necromancy",
+        "c4": "Rockslide",
+        "answer": "Marching Orders"
+    },
+    {
+        "question": "One of these is not like the others.",
+        "c1": "Ornamental Sword",
+        "c2": "Mahakam Horn",
+        "c3": "Ointment",
+        "c4": "Dimeritium Shackles",
+        "answer": "Commander's Horn"
+    },
+    {
+        "question": "Monsters' runestone is:",
+        "c1": "Stribog",
+        "c2": "Zoria",
+        "c3": "Dazhbog",
+        "c4": "Morana",
+        "answer": "Devana"
+    },
+    {
+        "question": "Nilfgaard runestone is:",
+        "c1": "Stribog",
+        "c2": "Zoria",
+        "c3": "Devana",
+        "c4": "Morana",
+        "answer": "Dazhbog"
+    },
+    {
+        "question": "Skellige's runestone is:",
+        "c1": "Dazhbog",
+        "c2": "Zoria",
+        "c3": "Devana",
+        "c4": "Morana",
+        "answer": "Stribog"
+    },
+    {
+        "question": "Northern Realms' runestone is:",
+        "c1": "Stribog",
+        "c2": "Dazhbog",
+        "c3": "Devana",
+        "c4": "Morana",
+        "answer": "Zoria"
+    },
+    {
+        "question": "Scoiatael's runestone is:",
+        "c1": "Stribog",
+        "c2": "Zoria",
+        "c3": "Devana",
+        "c4": "Dazhbog",
+        "answer": "Morana"
+    },
+    {
+        "question": "King or beggar, what´s the difference? One dh´oine less",
+        "c1": "Toruviel",
+        "c2": "Isengrim",
+        "c3": "Aelirenn",
+        "c4": "Schirrú",
+        "answer": "Iorveth"
+    },
+    {
+        "question": "Lamia",
+        "c1": "Spawn Rain, Clear Skies or Arachas Venom",
+        "c2": "Spawn Rain, Clear Skies or Arachas Behemoth",
+        "c3": "Consume all units in your graveyard and boost by 1 for each",
+        "c4": "Lock a unit.",
+        "answer": "Deal 4 damage, if under Blood Moon, deal 7."
+    },
+    {
+        "question": "Geralt: Igni has a minimum cap of:",
+        "c1": 24,
+        "c2": 22,
+        "c3": 20,
+        "c4": 21,
+        "answer": 25
+    },
+    {
+        "question": "Eskel: ",
+        "c1": "Swordmaster",
+        "c2": "Mentor",
+        "c3": "Wolf",
+        "c4": "Beast Slayer",
+        "answer": "Pathfinder"
+    },
+    {
+        "question": "Lambert:",
+        "c1": "Beast Slayer",
+        "c2": "Mentor",
+        "c3": "Pathfinder",
+        "c4": "Scoundrel",
+        "answer": "Swordmaster"
+    },
+    {
+        "question": "Vesemir:",
+        "c1": "Wolf",
+        "c2": "Swordmaster",
+        "c3": "Beast Slayer",
+        "c4": "Pathfinder",
+        "answer": "Mentor"
+    },
+    {
+        "question": "Thunderbolt",
+        "c1": "Boost up to 6 random allies by 2",
+        "c2": "Boost 3 adjacent units by 2 and give them 3 armor",
+        "c4": "Deal 2 damage to up to 6 random enemies",
+        "answer": "Boost 3 adjacent units by 3 and give them 2 armor"
+    },
+    {
+        "question": "Swallow Potion",
+        "c1": "Deal 2 damage to up to 6 random enemies",
+        "c2": "Boost up to 6 random allies by 2",
+        "c3": "Boost 3 adjacent units by 3",
+        "c4": "Boost a unit by 8",
+        "answer": "Boost a unit by 10"
+    },
+    {
+        "question": "Petri's Philter",
+        "c1": "Boost a unit by 10",
+        "c2": "Boost 3 adjacent units by 3 and give them 2 armor",
+        "c4": "Deal 2 damage to up to 6 random enemies",
+        "answer": "Boost up to 6 random allies by 2"
+    },
+    {
+        "question": "Dorregaray can't pull:",
+        "c1": "Wyvern",
+        "c2": "Ocvist",
+        "c3": "Slyzard",
+        "c4": "Panther",
+        "answer": "Barbegazi"
+    }
+]

@@ -1,0 +1,1071 @@
+{
+    "questions": [
+
+        {
+            "flashCardFlipped": false,
+            "questionText": "Who's the Leek master?",
+            "answers": [
+                {"answer": "Burza", "correct": true, "selected": false},
+                {"answer": "Rethaz", "correct": false, "selected": false},
+                {"answer": "Vinthir", "correct": false, "selected": false},
+                {"answer": "Dandelion", "correct": false, "selected": false}
+            ]
+        },
+
+
+        {
+            "flashCardFlipped": false,
+            "questionText": "Which streamer uploads cancer tier decks the second a new patch arrives?",
+            "answers": [
+                {"answer": "Swim", "correct": true, "selected": false},
+                {"answer": "Mogwai", "correct": false, "selected": false},
+                {"answer": "JJPasak", "correct": false, "selected": false},
+                {"answer": "Merchant", "correct": false, "selected": false},
+                {"answer": "SirPumpkn", "correct": false, "selected": false}
+            ]
+        },
+
+
+        {
+            "flashCardFlipped": false,
+            "questionText": "A grave error",
+            "answers": [
+                {"answer": "Ciri", "correct": true, "selected": false},
+                {"answer": "Radovid", "correct": false, "selected": false},
+                {"answer": "Geralt", "correct": false, "selected": false},
+                {"answer": "Eredin", "correct": false, "selected": false},
+                {"answer": "Dandelion", "correct": false, "selected": false}
+            ]
+        },
+
+
+        {
+            "flashCardFlipped": false,
+            "questionText": "There's been a mistake, he's no mage.",
+            "answers": [
+                {"answer": "Alchemist", "correct": true, "selected": false},
+                {"answer": "Dorregaray", "correct": false, "selected": false},
+                {"answer": "Abaya", "correct": false, "selected": false},
+                {"answer": "Vicovaro Medic", "correct": false, "selected": false},
+                {"answer": "Avallach", "correct": false, "selected": false}
+            ]
+        },
+
+
+        {
+            "flashCardFlipped": false,
+            "questionText": "FCKing Radovid",
+            "answers": [
+                {"answer": "AFRICA", "correct": true, "selected": false},
+                {"answer": "EUROPA", "correct": false, "selected": false},
+                {"answer": "ANTARCTICA", "correct": false, "selected": false},
+                {"answer": "AMERICA", "correct": false, "selected": false},
+                {"answer": "ASIA", "correct": false, "selected": false}
+            ]
+        },
+
+
+        {
+            "flashCardFlipped": false,
+            "questionText": "How many Ciri cards are there?",
+            "answers": [
+                {"answer": "3", "correct": true, "selected": false},
+                {"answer": "0", "correct": false, "selected": false},
+                {"answer": "1", "correct": false, "selected": false},
+                {"answer": "2", "correct": false, "selected": false},
+                {"answer": "4", "correct": false, "selected": false}
+            ]
+        },
+
+        {
+            "flashCardFlipped": false,
+            "questionText": "Uma is...",
+            "answers": [
+                {"answer": "Avallach", "correct": true, "selected": false},
+                {"answer": "Geralt", "correct": false, "selected": false},
+                {"answer": "Ciri", "correct": false, "selected": false},
+                {"answer": "Just a monster", "correct": false, "selected": false},
+                {"answer": "Dandelion", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Dance of death! HA! HA!",
+            "answers": [
+                {"answer": "Blue Mountain Elite", "correct": true, "selected": false},
+                {"answer": "Wardancer", "correct": false, "selected": false},
+                {"answer": "Elven Scout", "correct": false, "selected": false},
+                {"answer": "Elven swordmaster", "correct": false, "selected": false},
+                {"answer": "Elven Bomber", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "How many factions are in the game?",
+            "answers": [
+                {"answer": "5", "correct": true, "selected": false},
+                {"answer": "4", "correct": false, "selected": false},
+                {"answer": "2", "correct": false, "selected": false},
+                {"answer": "3", "correct": false, "selected": false},
+                {"answer": "6", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "What is the row limit?",
+            "answers": [
+                {"answer": "9", "correct": true, "selected": false},
+                {"answer": "12", "correct": false, "selected": false},
+                {"answer": "10", "correct": false, "selected": false},
+                {"answer": "11", "correct": false, "selected": false},
+                {"answer": "8", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "How many Yennefer cards are there?",
+            "answers": [
+                {"answer": "3", "correct": true, "selected": false},
+                {"answer": "4", "correct": false, "selected": false},
+                {"answer": "1", "correct": false, "selected": false},
+                {"answer": "2", "correct": false, "selected": false},
+                {"answer": "5", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "How many Triss cards are there in the game?",
+            "answers": [
+                {"answer": "2", "correct": true, "selected": false},
+                {"answer": "4", "correct": false, "selected": false},
+                {"answer": "1", "correct": false, "selected": false},
+                {"answer": "3", "correct": false, "selected": false},
+                {"answer": "5", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "One of these isn't in the game",
+            "answers": [
+                {"answer": "G: Axii", "correct": true, "selected": false},
+                {"answer": "G: Igni", "correct": false, "selected": false},
+                {"answer": "G: Aard", "correct": false, "selected": false},
+                {"answer": "G: Yrden", "correct": false, "selected": false},
+                {"answer": "Geralt", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "What does Myrgtabrakke do?",
+            "answers": [
+                {"answer": "Deal 2 damage 3 times", "correct": true, "selected": false},
+                {"answer": "Deal 1 damage 4 times", "correct":  false, "selected": false},
+                {"answer": "Damage units by 2, 2 and then 1", "correct": false, "selected": false},
+                {"answer": "Damage units by 2, 1 and then 1", "correct": false, "selected": false},
+                {"answer": "Deal 3 damage, then 1.", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Slave Hunter",
+            "answers": [
+                {"answer": "Charm a Bronze with 3 power or less", "correct": true, "selected": false},
+                {"answer": "Charm a unit with 3 power or less", "correct": false, "selected": false},
+                {"answer": "Create a Bronze unit from your opponents starting deck", "correct": false, "selected": false},
+                {"answer": "Spawn a base copy of this unit on your other rows", "correct": false, "selected": false},
+                {"answer": "Reset a unit", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "How many Zoltan cards are there?",
+            "answers": [
+                {"answer": "2", "correct": true, "selected": false},
+                {"answer": "4", "correct": false, "selected": false},
+                {"answer": "1", "correct": false, "selected": false},
+                {"answer": "3", "correct": false, "selected": false},
+                {"answer": "0", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "How many gold cards does NG have?",
+            "answers": [
+                {"answer": "14", "correct": true, "selected": false},
+                {"answer": "12", "correct": false, "selected": false},
+                {"answer": "13", "correct": false, "selected": false},
+                {"answer": "15", "correct": false, "selected": false},
+                {"answer": "17", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "The faction with the least amount of golds is...",
+            "answers": [
+                {"answer": "Scoia'tael, Northern Realms and Skellige have the same amount", "correct": true, "selected": false},
+                {"answer": "Nilfgaard", "correct": false, "selected": false},
+                {"answer": "Monsters", "correct": false, "selected": false},
+                {"answer": "Scoia'tael", "correct": false, "selected": false},
+                {"answer": "Northern Realms", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "The faction with the most golds is",
+            "answers": [
+                {"answer": "Nilfgaard", "correct": true, "selected": false},
+                {"answer": "Scoia'tael", "correct": false, "selected": false},
+                {"answer": "Northern Realms", "correct": false, "selected": false},
+                {"answer": "Skellige", "correct": false, "selected": false},
+                {"answer": "Monsters", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Yennefer: Enchantress",
+            "answers": [
+                {"answer": "Spawn the last Bronze or silver Spell you played", "correct": true, "selected": false},
+                {"answer": "Spawn Unicorn or Chironex", "correct": false, "selected": false},
+                {"answer": "Deal 1 damage to the Highest enemies", "correct": false, "selected": false},
+                {"answer": "Deal 5 damage", "correct": false, "selected": false},
+                {"answer": "Boost the lowest allies by 1", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "The faction with the least amount of silvers is?",
+            "answers": [
+                {"answer": "Skellige", "correct": true, "selected": false},
+                {"answer": "Northern Realms", "correct": false, "selected": false},
+                {"answer": "Scoia'tael", "correct": false, "selected": false},
+                {"answer": "Monsters", "correct": false, "selected": false},
+                {"answer": "Nilfgaard", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "The faction with the most bronzes is",
+            "answers": [
+                {"answer": "Monsters", "correct": true, "selected": false},
+                {"answer": "Skellige", "correct": false, "selected": false},
+                {"answer": "Northern Realms", "correct": false, "selected": false},
+                {"answer": "Scoia'tael", "correct": false, "selected": false},
+                {"answer": "Nilfgaard", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "The faction with the least amount of bronzes is",
+            "answers": [
+                {"answer": "Scoia'tael", "correct": true, "selected": false},
+                {"answer": "Skellige", "correct": false, "selected": false},
+                {"answer": "Nilfgaard", "correct": false, "selected": false},
+                {"answer": "Northern Realms", "correct": false, "selected": false},
+                {"answer": "Monsters", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Milva",
+            "answers": [
+                {"answer": "Return each player's Highest Bronze or Silver unit to their deck", "correct": true, "selected": false},
+                {"answer": "Return each player's Highest unit to their deck and boost yours by 3", "correct": false, "selected": false},
+                {"answer": "Truce: return the Highest Ally and Enemy to each players' hand.", "correct": false, "selected": false},
+                {"answer": "Reset the Highest units on each side of the board.", "correct": false, "selected": false},
+                {"answer": "Swap 2 cards", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "A king should be merciless towards his enemies and generous to his friends.",
+            "answers": [
+                {"answer": "Radovid", "correct": true, "selected": false},
+                {"answer": "Francesca", "correct": false, "selected": false},
+                {"answer": "Foltest", "correct": false, "selected": false},
+                {"answer": "Henselt", "correct": false, "selected": false},
+                {"answer": "Bran", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "How many hazards are there in the game?",
+            "answers": [
+                {"answer": "10", "correct": true, "selected": false},
+                {"answer": "11", "correct": false, "selected": false},
+                {"answer": "9", "correct": false, "selected": false},
+                {"answer": "12", "correct": false, "selected": false},
+                {"answer": "8", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "How many boons are there in the game?",
+            "answers": [
+                {"answer": "2", "correct": true, "selected": false},
+                {"answer": "1", "correct": false, "selected": false},
+                {"answer": "5", "correct": false, "selected": false},
+                {"answer": "3", "correct": false, "selected": false},
+                {"answer": "4", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Spores",
+            "answers": [
+                {"answer": "Deal 2 damage to all units on a row and clear a boon from it", "correct": true, "selected": false},
+                {"answer": "Reset a unit and strengthen it by 3", "correct": false, "selected": false},
+                {"answer": "Deal 13 damage", "correct": false, "selected": false},
+                {"answer": "Reset a unit and weaken it by 6", "correct": false, "selected": false},
+                {"answer": "Reset a unit and weaken it by 3", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "The summer sun reflected in the quiet waters of the Alba - that´s Nilfgaard to me",
+            "answers": [
+                {"answer": "Morvran", "correct": true, "selected": false},
+                {"answer": "Tibor", "correct": false, "selected": false},
+                {"answer": "Emhyr", "correct": false, "selected": false},
+                {"answer": "Jan Calveit", "correct": false, "selected": false},
+                {"answer": "Menno", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Mogwai is a main ____ player.",
+            "answers": [
+                {"answer": "Nilfgaard", "correct": true, "selected": false},
+                {"answer": "Northern Realms", "correct": false, "selected": false},
+                {"answer": "Skellige", "correct": false, "selected": false},
+                {"answer": "Monsters", "correct": false, "selected": false},
+                {"answer": "Scoia'tael", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "How many Create cards are there?",
+            "answers": [
+                {"answer": "24", "correct": true, "selected": false},
+                {"answer": "12", "correct": false, "selected": false},
+                {"answer": "15", "correct": false, "selected": false},
+                {"answer": "8", "correct": false, "selected": false},
+                {"answer": "20", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Aguara: True form can't pull:",
+            "answers": [
+                {"answer": "Marching Orders", "correct": true, "selected": false},
+                {"answer": "Scorch", "correct": false, "selected": false},
+                {"answer": "Alzur's Thunder", "correct": false, "selected": false},
+                {"answer": "Necromancy", "correct": false, "selected": false},
+                {"answer": "Rockslide", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Which one of these is not an item",
+            "answers": [
+                {"answer": "Commander's Horn", "correct": true, "selected": false},
+                {"answer": "Ornamental Sword", "correct": false, "selected": false},
+                {"answer": "Mahakam Horn", "correct": false, "selected": false},
+                {"answer": "Ointment", "correct": false, "selected": false},
+                {"answer": "Dimeritium Shackles", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "A king should be merciless towards his enemies and generous to his friends.",
+            "answers": [
+                {"answer": "Radovid", "correct": true, "selected": false},
+                {"answer": "Francesca", "correct": false, "selected": false},
+                {"answer": "Foltest", "correct": false, "selected": false},
+                {"answer": "Henselt", "correct": false, "selected": false},
+                {"answer": "Bran", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Monsters' runestone is:",
+            "answers": [
+                {"answer": "Devana", "correct": true, "selected": false},
+                {"answer": "Stribog", "correct": false, "selected": false},
+                {"answer": "Zoria", "correct": false, "selected": false},
+                {"answer": "Dazhbog", "correct": false, "selected": false},
+                {"answer": "Morana", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Nilfgaard runestone is:",
+            "answers": [
+                {"answer": "Dazhbog", "correct": true, "selected": false},
+                {"answer": "Stribog", "correct": false, "selected": false},
+                {"answer": "Zoria", "correct": false, "selected": false},
+                {"answer": "Devana", "correct": false, "selected": false},
+                {"answer": "Morana", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Skellige's runestone is:",
+            "answers": [
+                {"answer": "Stribog", "correct": true, "selected": false},
+                {"answer": "Dazhbog", "correct": false, "selected": false},
+                {"answer": "Zoria", "correct": false, "selected": false},
+                {"answer": "Devana", "correct": false, "selected": false},
+                {"answer": "Morana", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Northern Realms' runestone is:",
+            "answers": [
+                {"answer": "Zoria", "correct": true, "selected": false},
+                {"answer": "Stribog", "correct": false, "selected": false},
+                {"answer": "Dazhbog", "correct": false, "selected": false},
+                {"answer": "Devana", "correct": false, "selected": false},
+                {"answer": "Morana", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Scoiatael's runestone is:",
+            "answers": [
+                {"answer": "Morana", "correct": true, "selected": false},
+                {"answer": "Stribog", "correct": false, "selected": false},
+                {"answer": "Zoria", "correct": false, "selected": false},
+                {"answer": "Devana", "correct": false, "selected": false},
+                {"answer": "Dazhbog", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Morenn deals ____ damage",
+            "answers": [
+                {"answer": "8", "correct": true, "selected": false},
+                {"answer": "7", "correct": false, "selected": false},
+                {"answer": "5", "correct": false, "selected": false},
+                {"answer": "6", "correct": false, "selected": false},
+                {"answer": "4", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "King or beggar, what´s the difference? One dh´oine less",
+            "answers": [
+                {"answer": "Iorveth", "correct": true, "selected": false},
+                {"answer": "Toruviel", "correct": false, "selected": false},
+                {"answer": "Isengrim", "correct": false, "selected": false},
+                {"answer": "Aelirenn", "correct": false, "selected": false},
+                {"answer": "Schirrú", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Lamia",
+            "answers": [
+                {"answer": "Deal 4 damage, if under Blood Moon, deal 7.", "correct": true, "selected": false},
+                {"answer": "Spawn Rain, Clear Skies or Arachas Venom", "correct": false, "selected": false},
+                {"answer": "Consume all units in your graveyard and boost by 1 for each", "correct": false, "selected": false},
+                {"answer": "Lock a unit.", "correct": false, "selected": false},
+                {"answer": "Spawn Rain, Clear Skies or Arachas Behemoth", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Geralt: Igni has a minimum cap of:",
+            "answers": [
+                {"answer": "25", "correct": true, "selected": false},
+                {"answer": "20", "correct": false, "selected": false},
+                {"answer": "22", "correct": false, "selected": false},
+                {"answer": "21", "correct": false, "selected": false},
+                {"answer": "24", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Eskel:",
+            "answers": [
+                {"answer": "Pathfinder", "correct": true, "selected": false},
+                {"answer": "Swordmaster", "correct": false, "selected": false},
+                {"answer": "Mentor", "correct": false, "selected": false},
+                {"answer": "Wolf", "correct": false, "selected": false},
+                {"answer": "Beast Slayer", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Vesemir:",
+            "answers": [
+                {"answer": "Mentor", "correct": true, "selected": false},
+                {"answer": "Wolf", "correct": false, "selected": false},
+                {"answer": "Swordmaster", "correct": false, "selected": false},
+                {"answer": "Beast Slayer", "correct": false, "selected": false},
+                {"answer": "Pathfinder", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Lambert:",
+            "answers": [
+                {"answer": "Swordmaster", "correct": true, "selected": false},
+                {"answer": "Beast Slayer", "correct": false, "selected": false},
+                {"answer": "Mentor", "correct": false, "selected": false},
+                {"answer": "Pathfinder", "correct": false, "selected": false},
+                {"answer": "Scoundrel", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Thunderbolt",
+            "answers": [
+                {"answer": "Boost 3 adjacent units by 3 and give them 2 armor", "correct": true, "selected": false},
+                {"answer": "Boost up to 6 random allies by 2", "correct": false, "selected": false},
+                {"answer": "Boost 3 adjacent units by 2 and give them 3 armor", "correct": false, "selected": false},
+                {"answer": "Deal 2 damage to up to 6 random enemies", "correct": false, "selected": false},
+                {"answer": "Boost 4 adjacent units by 3 and give them 3 armor", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Swallow Potion",
+            "answers": [
+                {"answer": "Boost a unit by 10", "correct": true, "selected": false},
+                {"answer": "Deal 2 damage to up to 6 random enemies", "correct": false, "selected": false},
+                {"answer": "Boost up to 6 random allies by 2", "correct": false, "selected": false},
+                {"answer": "Boost 3 adjacent units by 3", "correct": false, "selected": false},
+                {"answer": "Boost a unit by 8", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Petri's Philter",
+            "answers": [
+                {"answer": "Boost up to 6 random allies by 2", "correct": true, "selected": false},
+                {"answer": "Boost a unit by 10", "correct": false, "selected": false},
+                {"answer": "Boost 3 adjacent units by 3 and give them 2 armor", "correct": false, "selected": false},
+                {"answer": "Deal 2 damage to up to 6 random enemies", "correct": false, "selected": false},
+                {"answer": "Boost up to 4 random allies by 5", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Dorregaray can't pull:",
+            "answers": [
+                {"answer": "Barbegazi", "correct": true, "selected": false},
+                {"answer": "Wyvern", "correct": false, "selected": false},
+                {"answer": "Ocvist", "correct": false, "selected": false},
+                {"answer": "Slyzard", "correct": false, "selected": false},
+                {"answer": "Panther", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "<img src='assets/palmerin.jpg' />",
+            "answers": [
+                {"answer": "Palmerin", "correct": true, "selected": false},
+                {"answer": "Milton", "correct": false, "selected": false},
+                {"answer": "Zoria", "correct": false, "selected": false},
+                {"answer": "Ardal", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "There's a Exodia card coming, and its pieces make...",
+            "answers": [
+                {"answer": "Manticore", "correct": true, "selected": false},
+                {"answer": "Geralt", "correct": false, "selected": false},
+                {"answer": "The Crones", "correct": false, "selected": false},
+                {"answer": "The Witchers", "correct": false, "selected": false},
+                {"answer": "The Wild Hunt", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Prize Winning Cow spawns a __ power chort",
+            "answers": [
+                {"answer": "14", "correct": true, "selected": false},
+                {"answer": "15", "correct": false, "selected": false},
+                {"answer": "12", "correct": false, "selected": false},
+                {"answer": "10", "correct": false, "selected": false},
+                {"answer": "8", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Please wait your excellency. I'm falling behind",
+            "answers": [
+                {"answer": "Emissary", "correct": true, "selected": false},
+                {"answer": "Ambassador", "correct": false, "selected": false},
+                {"answer": "Cantarella", "correct": false, "selected": false},
+                {"answer": "Senator", "correct": false, "selected": false},
+                {"answer": "Menno", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "<img src='assets/swimcroc.jpg' />",
+            "answers": [
+                {"answer": "Swim", "correct": true, "selected": false},
+                {"answer": "Crocoplays", "correct": false, "selected": false},
+                {"answer": "SuperJJ", "correct": false, "selected": false},
+                {"answer": "Merchant", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "<img src='assets/cerys.jpg' />",
+            "answers": [
+                {"answer": "Cerys", "correct": true, "selected": false},
+                {"answer": "Hjalmar", "correct": false, "selected": false},
+                {"answer": "Sabrina", "correct": false, "selected": false},
+                {"answer": "Triss", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "<img src='assets/picasso.jpg' />",
+            "answers": [
+                {"answer": "Ge'els drew it", "correct": true, "selected": false},
+                {"answer": "Avallac'h drew it", "correct": false, "selected": false},
+                {"answer": "Eredin drew it", "correct": false, "selected": false},
+                {"answer": "Vernon Roche drew it", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "What happens if a Vrihhed Officer swaps a special card?",
+            "answers": [
+                {"answer": "It doesn't boost at all", "correct": true, "selected": false},
+                {"answer": "It boosts by 5", "correct": false, "selected": false},
+                {"answer": "It boosts by 4", "correct": false, "selected": false},
+                {"answer": "It boosts by 6", "correct": false, "selected": false},
+                {"answer": "It boosts by 8", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Aelirenn comes out when there are __ elves on the board",
+            "answers": [
+                {"answer": "5", "correct": true, "selected": false},
+                {"answer": "6", "correct": false, "selected": false},
+                {"answer": "4", "correct": false, "selected": false},
+                {"answer": "7", "correct": false, "selected": false},
+                {"answer": "8", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "<img src='assets/dragondream.jpg' />",
+            "answers": [
+                {"answer": "Dragon's Dream", "correct": true, "selected": false},
+                {"answer": "Dimeritium bomb", "correct": false, "selected": false},
+                {"answer": "Northern Wind", "correct": false, "selected": false},
+                {"answer": "Saltpeter", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "<img src='assets/usurper.jpg' />",
+            "answers": [
+                {"answer": "I shall make Nilfgaard great again!", "correct": true, "selected": false},
+                {"answer": "I will not repeat Emhyr's mistakes", "correct": false, "selected": false},
+                {"answer": "We were not the ones to start this war", "correct": false, "selected": false},
+                {"answer": "Patience is not a virtue i am known to have", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "<img src='assets/caretaker.jpg' />",
+            "answers": [
+                {"answer": "Relict", "correct": true, "selected": false},
+                {"answer": "Cursed", "correct": false, "selected": false},
+                {"answer": "Stubborn", "correct": false, "selected": false},
+                {"answer": "Beast", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "How many ambush cards are there in the game?",
+            "answers": [
+                {"answer": "4", "correct": true, "selected": false},
+                {"answer": "5", "correct": false, "selected": false},
+                {"answer": "3", "correct": false, "selected": false},
+                {"answer": "6", "correct": false, "selected": false},
+                {"answer": "7", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "<img src='assets/drakkar.jpg' />",
+            "answers": [
+                {"answer": "Wild Hunt Drakkar", "correct": true, "selected": false},
+                {"answer": "Wild Hunt Longship", "correct": false, "selected": false},
+                {"answer": "Wild Hunt Lightship", "correct": false, "selected": false},
+                {"answer": "Wild Hunt Naga", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Kayran's base power is:",
+            "answers": [
+                {"answer": "Base Power 5", "correct": true, "selected": false},
+                {"answer": "Base Power 4", "correct": false, "selected": false},
+                {"answer": "Base Power 8", "correct": false, "selected": false},
+                {"answer": "Base Power 7", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "<img src='assets/skald.jpg' />",
+            "answers": [
+                {"answer": "Clan Heymaey", "correct": true, "selected": false},
+                {"answer": "Clan Tuirseach", "correct": false, "selected": false},
+                {"answer": "Clan Dimun", "correct": false, "selected": false},
+                {"answer": "Clan Brokvar", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Spotter can boost from a revealed gold",
+            "answers": [
+                {"answer": "False", "correct": true, "selected": false},
+                {"answer": "True", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Clan ____ Axeman",
+            "answers": [
+                {"answer": "Tuirseach", "correct": true, "selected": false},
+                {"answer": "Heymaey", "correct": false, "selected": false},
+                {"answer": "Dimun", "correct": false, "selected": false},
+                {"answer": "Brokvar", "correct": false, "selected": false},
+                {"answer": "An Craite", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Coexistence... No such thing.",
+            "answers": [
+                {"answer": "Yaevinn", "correct": true, "selected": false},
+                {"answer": "Dwarven Skirmisher", "correct": false, "selected": false},
+                {"answer": "Dwarven Agitator", "correct": false, "selected": false},
+                {"answer": "Dwarven Mercenary", "correct": false, "selected": false},
+                {"answer": "Iorveth", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "He doesn't work for free.",
+            "answers": [
+                {"answer": "Leo Bonhart", "correct": true, "selected": false},
+                {"answer": "Dwarven Mercenary", "correct": false, "selected": false},
+                {"answer": "Elven Mercenary", "correct": false, "selected": false},
+                {"answer": "Cahir", "correct": false, "selected": false},
+                {"answer": "Stefan Skellen", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Stefan puts a card on top and also...",
+            "answers": [
+                {"answer": "Boost it by 5", "correct": true, "selected": false},
+                {"answer": "Boosts it by 2", "correct": false, "selected": false},
+                {"answer": "Boosts it by 3", "correct": false, "selected": false},
+                {"answer": "Boosts it by 4", "correct": false, "selected": false},
+                {"answer": "That's all he does", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Wield my magic as if it were your own.",
+            "answers": [
+                {"answer": "Fringilla", "correct": true, "selected": false},
+                {"answer": "Cynthia", "correct": false, "selected": false},
+                {"answer": "Yennefer", "correct": false, "selected": false},
+                {"answer": "Triss", "correct": false, "selected": false},
+                {"answer": "Philippa", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "He cares for the common folk.",
+            "answers": [
+                {"answer": "Peter", "correct": true, "selected": false},
+                {"answer": "Foltest", "correct": false, "selected": false},
+                {"answer": "Nilfgaardian Knight", "correct": false, "selected": false},
+                {"answer": "Spotter", "correct": false, "selected": false},
+                {"answer": "Albrich", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Can Ida Emean spawn Alzur's Thunder? ",
+            "answers": [
+                {"answer": "Yes", "correct": true, "selected": false},
+                {"answer": "No", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "What is the maximum swing of Bekker's Twisted Mirror?",
+            "answers": [
+                {"answer": "20", "correct": true, "selected": false},
+                {"answer": "25", "correct": false, "selected": false},
+                {"answer": "30", "correct": false, "selected": false},
+                {"answer": "18", "correct": false, "selected": false},
+                {"answer": "19", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Does Braenn buff elves?",
+            "answers": [
+                {"answer": "No", "correct": true, "selected": false},
+                {"answer": "Yes", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Who's Iris?",
+            "answers": [
+                {"answer": "Olgierd's Wife", "correct": true, "selected": false},
+                {"answer": "A mage", "correct": false, "selected": false},
+                {"answer": "One of Geralt's girlfriends", "correct": false, "selected": false},
+                {"answer": "Gaunter's assistant", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Who is Vilgefortz's victim in his card art?",
+            "answers": [
+                {"answer": "Regis", "correct": true, "selected": false},
+                {"answer": "Geralt", "correct": false, "selected": false},
+                {"answer": "A mage", "correct": false, "selected": false},
+                {"answer": "Avallach", "correct": false, "selected": false},
+                {"answer": "A peasant", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Which Crone has the highest base power?",
+            "answers": [
+                {"answer": "Brewess", "correct": true, "selected": false},
+                {"answer": "Whispess", "correct": false, "selected": false},
+                {"answer": "Weavess", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Who is Vilgefortz's victim in his card art?",
+            "answers": [
+                {"answer": "Regis", "correct": true, "selected": false},
+                {"answer": "Geralt", "correct": false, "selected": false},
+                {"answer": "A mage", "correct": false, "selected": false},
+                {"answer": "Avallach", "correct": false, "selected": false},
+                {"answer": "A peasant", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Shupe: Mage can't...",
+            "answers": [
+                {"answer": "Play a unit from deck", "correct": true, "selected": false},
+                {"answer": "Draw a card", "correct": false, "selected": false},
+                {"answer": "Spawn hazards on enemy rows", "correct": false, "selected": false},
+                {"answer": "Play a special from deck", "correct": false, "selected": false},
+                {"answer": "Charm a random enemy", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Foltest",
+            "answers": [
+                {"answer": "Temeria", "correct": true, "selected": false},
+                {"answer": "Redania", "correct": false, "selected": false},
+                {"answer": "Kaedwen", "correct": false, "selected": false},
+                {"answer": "Cintra", "correct": false, "selected": false},
+                {"answer": "Aedirn", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "DJ's name is hard to write.",
+            "answers": [
+                {"answer": "Dijkstra", "correct": true, "selected": false},
+                {"answer": "Djkistra", "correct": false, "selected": false},
+                {"answer": "Djikstra", "correct": false, "selected": false},
+                {"answer": "Dkjistra", "correct": false, "selected": false},
+                {"answer": "Dikjstra", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Aegroto dum anima est, spes est.",
+            "answers": [
+                {"answer": "Vicovaro Medic", "correct": true, "selected": false},
+                {"answer": "Vicovaro Novice", "correct": false, "selected": false},
+                {"answer": "Shani", "correct": false, "selected": false},
+                {"answer": "Ambassador", "correct": false, "selected": false},
+                {"answer": "Vicovaro Adept", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Is Morenn an elf?",
+            "answers": [
+                {"answer": "No", "correct": true, "selected": false},
+                {"answer": "Yes", "correct": false, "selected": false},
+                {"answer": "She's the HULK", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Coooome to me!",
+            "answers": [
+                {"answer": "Siren", "correct": true, "selected": false},
+                {"answer": "Succubus", "correct": false, "selected": false},
+                {"answer": "Iris", "correct": false, "selected": false},
+                {"answer": "Brewess", "correct": false, "selected": false},
+                {"answer": "Weavess", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Whispering Hillock can't pull...",
+            "answers": [
+                {"answer": "Doppler", "correct": true, "selected": false},
+                {"answer": "Adrenaline Rush", "correct": false, "selected": false},
+                {"answer": "Boulder", "correct": false, "selected": false},
+                {"answer": "Spores", "correct": false, "selected": false},
+                {"answer": "Arachas venom", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Harald the cripple",
+            "answers": [
+                {"answer": "An Craite", "correct": true, "selected": false},
+                {"answer": "Tuirseach", "correct": false, "selected": false},
+                {"answer": "Dimun", "correct": false, "selected": false},
+                {"answer": "Brokvar", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Can royal decree play a gold special?",
+            "answers": [
+                {"answer": "No", "correct": true, "selected": false},
+                {"answer": "Yes", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "What is the max swing for Trial of the Glasses?",
+            "answers": [
+                {"answer": "24", "correct": true, "selected": false},
+                {"answer": "25", "correct": false, "selected": false},
+                {"answer": "20", "correct": false, "selected": false},
+                {"answer": "19", "correct": false, "selected": false},
+                {"answer": "21", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Do imperial golems come out when you reveal your own cards?",
+            "answers": [
+                {"answer": "No", "correct": true, "selected": false},
+                {"answer": "Yes", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Top faction during Midwinter patch was",
+            "answers": [
+                {"answer": "Scoiatael", "correct": true, "selected": false},
+                {"answer": "Skellige", "correct": false, "selected": false},
+                {"answer": "Northern Realms", "correct": false, "selected": false},
+                {"answer": "Nilfgaard", "correct": false, "selected": false},
+                {"answer": "Monsters", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Earth elementals are now",
+            "answers": [
+                {"answer": "D'ao", "correct": true, "selected": false},
+                {"answer": "Striga", "correct": false, "selected": false},
+                {"answer": "Earth Troll", "correct": false, "selected": false},
+                {"answer": "Drakkar", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Maximum swing of Arena Champion is:",
+            "answers": [
+                {"answer": "14", "correct": true, "selected": false},
+                {"answer": "15", "correct": false, "selected": false},
+                {"answer": "17", "correct": false, "selected": false},
+                {"answer": "20", "correct": false, "selected": false},
+                {"answer": "21", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "How many beasts does Olaf need for full strength?",
+            "answers": [
+                {"answer": "5", "correct": true, "selected": false},
+                {"answer": "4", "correct": false, "selected": false},
+                {"answer": "6", "correct": false, "selected": false},
+                {"answer": "7", "correct": false, "selected": false},
+                {"answer": "8", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Trollolo has ____ armor",
+            "answers": [
+                {"answer": "9", "correct": true, "selected": false},
+                {"answer": "10", "correct": false, "selected": false},
+                {"answer": "11", "correct": false, "selected": false},
+                {"answer": "12", "correct": false, "selected": false},
+                {"answer": "8", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "<img src='assets/kiyan.jpg' />",
+            "answers": [
+                {"answer": "Kiyan", "correct": true, "selected": false},
+                {"answer": "Vandergrift's blade", "correct": false, "selected": false},
+                {"answer": "Unseen Elder", "correct": false, "selected": false},
+                {"answer": "None of these", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Phillipa deals ____ total damage",
+            "answers": [
+                {"answer": "15", "correct": true, "selected": false},
+                {"answer": "14", "correct": false, "selected": false},
+                {"answer": "16", "correct": false, "selected": false},
+                {"answer": "13", "correct": false, "selected": false},
+                {"answer": "17", "correct": false, "selected": false}
+            ]
+        },
+        {
+            "flashCardFlipped": false,
+            "questionText": "Which one is not a relict?",
+            "answers": [
+                {"answer": "Succubus", "correct": true, "selected": false},
+                {"answer": "Aguara", "correct": false, "selected": false},
+                {"answer": "Caretaker", "correct": false, "selected": false},
+                {"answer": "Gaunter", "correct": false, "selected": false},
+                {"answer": "Woodland Spirit", "correct": false, "selected": false}
+            ]
+        }
+    ]
+}
